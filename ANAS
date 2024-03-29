@@ -1,1 +1,5 @@
 ANAS IS CREATING THIS REPO
+git fetch upstream 
+git add . 
+git branch -a 
+git merge upstream/main 
